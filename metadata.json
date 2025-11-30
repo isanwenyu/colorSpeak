@@ -1,0 +1,5 @@
+{
+  "name": "ChromaMatch AI",
+  "description": "An intelligent color palette generator that creates harmonious color schemes based on text descriptions, complete with real-time UI previews.",
+  "requestFramePermissions": []
+}
